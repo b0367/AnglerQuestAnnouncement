@@ -1,0 +1,39 @@
+Angler Quest Announcement mod adds a message every time there's a new angler quest to tell you what the current angler quest is, where it's caught, and what day it is. Most of those features can be turned off.
+
+Changelog:
+
+v2.3.0.1:
+	-removed accidental bloat, mod is much much smaller now
+v2.3:
+	-Large update!
+	-removed previous day completion (for now?), as it wasn't functioning at all
+	-added terrariahooks dependency
+	-support for angler amnesia potion/no angler timer, etc. (biggest part)
+	-lots and lots of code cleanup
+	-day is now no longer synced with the quest announcement
+	-small amounts of grammar/spelling cleanup
+	-removed random excel file I left in mod folder
+	-updated mod description, no longer includes references to day
+v2.2:
+	-Hex support!
+	-Should actually work in multiplayer now
+	-Forum post!
+	-Added a "!"
+v2.1:
+	-Added message color to the config, currently only works with rgb, hex coming in next update most likely
+v2.0:
+	Biggest update so far!
+	-Added config with options for day counter and fish catch location
+	-Messages with and without day counter look different
+	-Added fish catch location to message (can be turned off in config)
+	-Added /aqa reload to reload the config
+v1.2.02:
+	-Actually updated icon
+v1.2.01:
+	-Updated icon
+v1.2:
+	-Added previous day completion list
+v1.1:
+	-Added icon
+v1:
+	-Initial upload

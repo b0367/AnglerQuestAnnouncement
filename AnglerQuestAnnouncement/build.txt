@@ -1,0 +1,8 @@
+displayName = Angler Quest Announcement
+author = bn0367
+version = 2.3.0.1
+hideCode = false
+includesource = true
+languageVersion = 6
+homepage = https://forums.terraria.org/index.php?threads/angler-quest-announcement-mod.73815/
+modReferences = TerrariaHooks
